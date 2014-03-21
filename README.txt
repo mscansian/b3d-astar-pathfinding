@@ -27,3 +27,6 @@
 ;;;; PRE-REQUISITES: You need to include the BinaryHeaps LIB (by Matheus 
 ;;;; Cansian). The include line is below (binaryheaps.bb)
 ;;;; Bynaryheaps: https://github.com/mscansian/b3d-binaryheaps.git
+
+
+DISCLAIMER: This project is very old (from my teenage years)! The code is very ugly and I don't provide any support.
