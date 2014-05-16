@@ -12,4 +12,4 @@ Features
 
 Requisites
 -----------
-[b3d-binary-heaps](https://github.com/mscansian/b3d-binaryheaps)
+[b3d-binary-heaps](https://github.com/mscansian/b3d-binaryheaps) (already included)
