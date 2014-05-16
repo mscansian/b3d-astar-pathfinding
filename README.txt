@@ -1,3 +1,13 @@
+b3d-astar-pathfinding
+===============
+
+A* Pathfinding implementation for Blitz3D
+
+Features:
+* Allows customization of heuristic function (default: euclidian distance)
+* Works with all kinds of map representation (grids, waypoints, navmesh)
+
+
 ;;;;                  a-star pathfinding.bb V1.0
 ;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 ;;;;                       Matheus Cansian
