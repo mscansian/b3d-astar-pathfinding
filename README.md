@@ -13,3 +13,7 @@ Features
 Requisites
 -----------
 [b3d-binary-heaps](https://github.com/mscansian/b3d-binaryheaps) (already included)
+
+License
+-----------
+[GNU LGPLv3](https://www.gnu.org/licenses/lgpl.html)
