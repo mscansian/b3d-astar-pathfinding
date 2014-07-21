@@ -5,10 +5,11 @@ A* Pathfinding implementation for Blitz3D
 
 Features
 -----------
-* Very fast! (uses Binary Heaps to sort points)
-* Allows for asyncronous calculation (path can be calculated in multiple iterations)
-* Works with all kinds of map representation (grids, waypoints, navmesh)
-* Allows customization of heuristic function (default: euclidian distance)
+* Very fast! (uses Binary Heaps to sort nodes)
+* Allow asyncronous calculation (path can be calculated in multiple iterations)
+* Work with all kinds of map representation (grids, waypoints, navmesh)
+* Allow customization of heuristic function (default: euclidian distance)
+* Allow customization of terrain function (default: always zero)
 
 Requisites
 -----------
